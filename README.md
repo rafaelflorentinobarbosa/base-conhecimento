@@ -1,6 +1,7 @@
 # 📚 Base de Conhecimento de Linguagens de Programação 💻
 
-![alt text](image.png)
+
+![alt text](images/image.png)
 
 Este é um projeto simples de uma "Base de Conhecimento" desenvolvida com HTML, CSS e JavaScript. A aplicação permite que os usuários busquem informações sobre diversas linguagens de programação e vejam detalhes como o ano de criação, uma breve descrição e um link para a documentação oficial.
 
